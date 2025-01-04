@@ -1,3 +1,22 @@
+# Article sharing
+# Table of Contents
+
+- [Introduction](#introduction)
+    - [Project overview](#project-overview)
+    - [Key features](#key-features)
+    - [Technologies Used](#technologies-used)
+- [Getting started](#getting-started)
+- [Strategies to increase performance under heavy load](#strategies-to-increase-performance-under-heavy-load)
+    - [Caching](#caching)
+        - [Authentication](#authentication)
+        - [Fetching and listing articles](#fetching-and-listing-articles)
+        - [Fetching users rating for each article](#fetching-users-rating-for-each-article)
+    - [Database indexing](#database-indexing)
+    - [Task scheduling](#task-scheduling)
+- [Strategies to prevent rating manipulation](#strategies-to-prevent-rating-manipulation)
+- [API Endpoints](#api-endpoints)
+    - [Authentication](#authentication-1)
+    - [Articles](#articles)
 # Introduction
 
 ## Project overview
