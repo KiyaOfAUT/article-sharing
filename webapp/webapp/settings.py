@@ -38,10 +38,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'posts',
     'djoser',
     'rest_framework_simplejwt',
     'authentication',
+    'articles',
 ]
 
 REST_FRAMEWORK = {
